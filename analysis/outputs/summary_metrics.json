@@ -1,0 +1,82 @@
+{
+  "date_min": "2025-03-01",
+  "date_max": "2025-12-31",
+  "total_enrolments": 5412854,
+  "total_demographic_updates": 49036441,
+  "total_biometric_updates": 69530050,
+  "overall_update_ratio": 21.904616492519473,
+  "top_states_enrolment": [
+    "Uttar Pradesh",
+    "Bihar",
+    "Madhya Pradesh",
+    "West Bengal",
+    "Maharashtra"
+  ],
+  "top_states_updates": [
+    "Uttar Pradesh",
+    "Maharashtra",
+    "Bihar",
+    "Andhra Pradesh",
+    "Madhya Pradesh"
+  ],
+  "daily_focus_months": [
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12"
+  ],
+  "top_district_update_ratio": [
+    {
+      "state": "Manipur",
+      "district": "Thoubal",
+      "update_enrol_ratio": 108.04779756326148
+    },
+    {
+      "state": "Manipur",
+      "district": "Imphal East",
+      "update_enrol_ratio": 101.84982332155477
+    },
+    {
+      "state": "Manipur",
+      "district": "Imphal West",
+      "update_enrol_ratio": 97.62216828478964
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Balod",
+      "update_enrol_ratio": 83.99821215733016
+    },
+    {
+      "state": "Maharashtra",
+      "district": "Gadchiroli",
+      "update_enrol_ratio": 81.4502948609941
+    }
+  ],
+  "top_district_updates_per_1k": [
+    {
+      "state": "Manipur",
+      "district": "Bishnupur",
+      "updates_per_1k": 304.82015509753626
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Narayanpur",
+      "updates_per_1k": 278.48662566156486
+    },
+    {
+      "state": "Manipur",
+      "district": "Thoubal",
+      "updates_per_1k": 273.0832275302723
+    },
+    {
+      "state": "Manipur",
+      "district": "Imphal East",
+      "updates_per_1k": 252.7750798595962
+    },
+    {
+      "state": "Manipur",
+      "district": "Imphal West",
+      "updates_per_1k": 232.93989096356702
+    }
+  ]
+}
